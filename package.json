@@ -1,0 +1,27 @@
+{
+  "name": "@vanyauhalin/userscript-redirect-from-reddit-to-old-reddit",
+  "version": "0.1.0",
+  "description": "Userscript that redirects from Reddit to old Reddit",
+  "keywords": [
+    "userscript",
+    "redirect",
+    "reddit"
+  ],
+  "author": {
+    "name": "Ivan Uhalin",
+    "email": "vanyauhalin@gmail.com",
+    "url": "https://vanyauhalin.me/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/vanyauhalin/userscript-redirect-from-reddit-to-old-reddit/",
+  "bugs": "https://github.com/vanyauhalin/userscript-redirect-from-reddit-to-old-reddit/issues/",
+  "repository": "github:vanyauhalin/userscript-redirect-from-reddit-to-old-reddit",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
